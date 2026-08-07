@@ -10,6 +10,7 @@ public class Arithmetic {
      * @param b Value 2
      * @return Product of a and b
      * */
+
     public static int product(int a, int b) {
         return a * b;
     }
@@ -19,8 +20,10 @@ public class Arithmetic {
      * @param b Value 2
      * @return Sum of a and b
      * */
+
+
     public static int sum(int a, int b) {
-        return a * b;
+        return a + b;
     }
 
     public static void main(String[] args) {
